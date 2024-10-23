@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT contenuSite (zone+)>
+<!ELEMENT zone (contenu+)>
+<!ELEMENT contenu (FR, EN)>
+<!ELEMENT FR (#PCDATA)>
+<!ELEMENT EN (#PCDATA)>
+<!ATTLIST zone id ID #REQUIRED>
+<!ATTLIST contenu id ID #REQUIRED>

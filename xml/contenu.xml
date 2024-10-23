@@ -1,0 +1,139 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE contenuSite SYSTEM "./contenu.dtd">
+<!--
+"zone" correspond aux différentes pages ou blocs de contenus.
+"contenu" correspond aux zones de texte sur chaque page.
+-->
+<contenuSite>
+    <zone id="general">
+        <contenu id="titreSite">
+            <FR>Le blogue de TechnoBlog</FR>
+            <EN>TechnoBlog's blog</EN>
+        </contenu>
+    </zone>
+    <zone id="pageAccueil">
+        <contenu id="pageAccueilTitre1">
+            <FR>Blogue multi-usagers</FR>
+            <EN>Multi-User Blog</EN>
+        </contenu>
+        <contenu id="pageAccueilTitre2">
+            <FR>Nos articles</FR>
+            <EN>Our articles</EN>
+        </contenu>
+        <contenu id="pageAccueilTitre3">
+            <FR>Auteur : </FR>
+            <EN>Author: </EN>
+        </contenu>
+        <contenu id="pageAccueilMsgUsager1">
+            <FR>Veuillez entrer un nom d'usager et un mot de passe</FR>
+            <EN>Please enter your username and password</EN>
+        </contenu>
+        <contenu id="pageAccueilMsgUsager2">
+            <FR>Bienvenu </FR>
+            <EN>Welcome </EN>
+        </contenu>
+         <contenu id="pageAccueilMsgUsager3">
+            <FR>Nom d'usager et / ou mot de passe invalide(s)</FR>
+            <EN>Invalid username and / or password</EN>
+        </contenu>
+        <contenu id="pageAccueilTexte1">
+            <FR>Langue : </FR>
+            <EN>Language: </EN>
+        </contenu>
+        <contenu id="pageAccueilTexte2">
+            <FR>Recherche par mots clés : </FR>
+            <EN>Keyword search: </EN>
+        </contenu>
+        <contenu id="pageAccueilTexte3">
+            <FR>Mots clés associés à cet article : </FR>
+            <EN>Keywords related to this article: </EN>
+        </contenu>
+        <contenu id="pageAccueilBouton1">
+            <FR>Connexion</FR>
+            <EN>Login</EN>
+        </contenu>
+        <contenu id="pageAccueilBouton2">
+            <FR>Déconnexion</FR>
+            <EN>Logout</EN>
+        </contenu>
+        <contenu id="pageAccueilLien1">
+            <FR>Ajouter un article</FR>
+            <EN>Add an article</EN>
+        </contenu>
+        <contenu id="pageAccueilLien2">
+            <FR>Modifier cet article</FR>
+            <EN>Edit this Article</EN>
+        </contenu>
+        <contenu id="pageAccueilLien3">
+            <FR>Accueil</FR>
+            <EN>Home</EN>
+        </contenu>
+        <contenu id="pageAccueilLien4">
+            <FR>Afficher tous les articles</FR>
+            <EN>Show all articles</EN>
+        </contenu>
+    </zone>
+    <zone id="pageModif">
+        <contenu id="pageModifTitre1">
+            <FR>Modification ou création d'articles</FR>
+            <EN>Articles modification or creation</EN>
+        </contenu>
+        <contenu id="pageModifTexte1">
+            <FR>Titre en français : </FR>
+            <EN>Title in French: </EN>
+        </contenu>
+        <contenu id="pageModifTexte2">
+            <FR>Texte en français : </FR>
+            <EN>Texte in French: </EN>
+        </contenu>
+        <contenu id="pageModifTexte3">
+            <FR>Titre en anglais : </FR>
+            <EN>Title in English: </EN>
+        </contenu>
+        <contenu id="pageModifTexte4">
+            <FR>Texte en anglais : </FR>
+            <EN>Text in English: </EN>
+        </contenu>
+        <contenu id="pageModifTexte5">
+            <FR>Mot(s)-clé(s) séparé(s) par une esperluette : </FR>
+            <EN>Keyword(s) separated by an ampersand: </EN>
+        </contenu>
+        <contenu id="pageModifBouton1">
+            <FR>Sauvegarder</FR>
+            <EN>Save</EN>
+        </contenu>
+        <contenu id="pageModifLien1">
+            <FR>Retour à la page d'accueil</FR>
+            <EN>Back to Home Page</EN>
+        </contenu>
+        <contenu id="pageModifErreur1">
+            <FR>Vous devez vous authentifier sur la page d'accueil pour voir cette page.</FR>
+            <EN>You need to login on the Home Page before you can access this page.</EN>
+        </contenu>
+        <contenu id="pageModifErreur2">
+            <FR>Vous devez entrer un titre en français.</FR>
+            <EN>You must enter a title in French.</EN>
+        </contenu>
+        <contenu id="pageModifErreur3">
+            <FR>Vous devez entrer un texte en français.</FR>
+            <EN>You must enter a text in French.</EN>
+        </contenu>
+        <contenu id="pageModifErreur4">
+            <FR>Vous devez entrer un titre en anglais.</FR>
+            <EN>You must enter a title in English.</EN>
+        </contenu>
+        <contenu id="pageModifErreur5">
+            <FR>Vous devez entrer un texte en anglais.</FR>
+            <EN>You must enter a text in English.</EN>
+        </contenu>
+        <contenu id="pageModifErreur6">
+            <FR>Vous devez entrer au moins un mot clé pour cet article.</FR>
+            <EN>You must enter at least one keyword for this article.</EN>
+        </contenu>
+        <contenu id="pageModifErreur7">
+            <FR>Vous devez entrer vos mots clés séparés par une esperluette, sans espaces.</FR>
+            <EN>You must enter your keywords seperated by an ampersand, without spaces.</EN>
+        </contenu>
+    </zone>
+</contenuSite>
